@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Otavio Srour
+  description: Ansible role to configure a FortiNet FortiGate firewall 
+  company: osrour
+  license: Apache
+  min_ansible_version: 2.3
+  platforms:
+  - name: FortiOS
+    versions:
+    - 5.6.3
+  categories:
+  - networking
+  - security
+  - firewall
+dependencies: []
