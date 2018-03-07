@@ -9,6 +9,10 @@ galaxy_info:
   #- name: FortiOS
   #  versions:
   #  - 5.6.3
+  platforms:
+  - name: GenericLinux
+    versions:
+    - any
   galaxy_tags:
   - networking
   - security
